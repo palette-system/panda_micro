@@ -1,8 +1,7 @@
 # PandaMicro (🐼micro)
 
 <img src="/images/front.png" width="250">　<img src="/images/back.png" width="250">
-<br><br>
-
+<br><br><br>
 
 
 ## 説明
@@ -11,6 +10,7 @@ PandaMicro は MCP23017 を使用した ProMicro サイズのIOエキスパン�
 基板にTRRSジャックが取り付けられているのが特徴で、TRRSを利用してI2C通信を行います。  
 ピンの配列は可能な限りProMicroと互換するよう設計していますが一部利用できないピンがあるため注意して下さい。  
 <br><br>
+
 
 ## TRRSジャック
 
@@ -157,6 +157,7 @@ PandaMicro は MCP23017 を使用した ProMicro サイズのIOエキスパン�
 
 電圧：　1.8V　～　5.5V  
 信号：　I2C　（～1.7MHz）
+<br><br>
 
 
 
