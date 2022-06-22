@@ -1,6 +1,6 @@
 # PandaMicro (🐼micro)
 
-<img src="/images/front.png" width="250">　<img src="/images/back.png" width="250">
+<img src="/images/front.png" height="400">　<img src="/images/back.png" height="400">
 <br><br><br>
 
 
