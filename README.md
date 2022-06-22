@@ -15,6 +15,8 @@ PandaMicro は MCP23017 を使用した ProMicro サイズのIOエキスパン�
 ## TRRSジャック
 
 <table>
+<tr><td>
+<table>
   <tr>
     <td>T</td>
     <td>SCL</td>
@@ -32,6 +34,9 @@ PandaMicro は MCP23017 を使用した ProMicro サイズのIOエキスパン�
     <td>GND</td>
   </tr>
 </table>
+</td><td>
+<img src="/images/pj320a.png" width="600">
+</td></tr></table>
 <br><br>
 
 
