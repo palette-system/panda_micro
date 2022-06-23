@@ -16,19 +16,23 @@ PandaMicro は MCP23017 を使用した ProMicro サイズのIOエキスパン�
 
 <table>
   <tr>
+    <td>1</td>
     <td>T</td>
     <td>SCL</td>
     <td rowspan="4"><img src="/images/pj320a.png" width="400"></td>
   </tr>
   <tr>
+    <td>2</td>
     <td>R</td>
     <td>SDA</td>
   </tr>
   <tr>
+    <td>3</td>
     <td>R</td>
     <td>VCC</td>
   </tr>
   <tr>
+    <td>4</td>
     <td>S</td>
     <td>GND</td>
   </tr>
