@@ -194,6 +194,7 @@ PandaMicro は MCP23017 を使用した ProMicro サイズのIOエキスパン�
 
 電圧：　1.8V　～　5.5V  
 信号：　I2C　（～1.7MHz）
+サイズ：　width 17.78mm　×　height 33.02
 <br><br>
 
 
