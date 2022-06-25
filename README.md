@@ -158,11 +158,49 @@ PandaMicro は MCP23017 を使用した ProMicro サイズのIOエキスパン�
 <br><br>
 
 
+## 使用パーツ
+
+<table>
+  <tr>
+    <th>部品名</th>
+    <td>表記</td>
+    <td>容量 / 型番</td>
+  </tr>
+  <tr>
+    <th>TRRSジャック</th>
+    <td>　</td>
+    <td>PJ320D</td>
+  </tr>
+  <tr>
+    <th>IOエキスパンダ</th>
+    <td>U1</td>
+    <td>MCP23017-E/SS</td>
+  </tr>
+  <tr>
+    <th>コンデンサ</th>
+    <td>C1</td>
+    <td>0.1μF（サイズ：2012）</td>
+  </tr>
+  <tr>
+    <th>I2Cプルアップ抵抗</th>
+    <td>R1、R2</td>
+    <td>2.2kΩ（サイズ：2012）</td>
+  </tr>
+</table>
+<br><br>
+
+
 ## 詳細情報
 
 電圧：　1.8V　～　5.5V  
 信号：　I2C　（～1.7MHz）
 <br><br>
 
+
+## 写真
+
+<img src="/images/pcb_1500.jpg" width="800"><br><br>
+<img src="/images/notrrs_1500.jpg" width="800"><br><br>
+<img src="/images/comp_1500.jpg" width="800"><br><br>
 
 
