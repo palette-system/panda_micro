@@ -154,8 +154,20 @@ PandaMicro は MCP23017 を使用した ProMicro サイズのIOエキスパン�
 
 ## アドレスジャンパーピンの設定
 
+I2C上に複数のpanda_microを接続できるので、どのpanda_microが何番目のpanda_microか判断するために必ずアドレスの設定が必要になります。<br>
+アドレスの設定は画像部分のジャンパーピンをはんだ付けして行って下さい。<br><br>
+※ 1つしか接続しない場合でもアドレス設定をしないと使用できません。<br><br>
+
+<img src="/images/jumper.png" width="700"><br><br>
+
 <img src="/images/jumper_setting.png" width="700">
 <br><br>
+
+
+## 対応キーボード
+
+使用したいキーボードの基板データが公開されていればProMicro部分の、画像で言う青い部分でキーの入力を取得しているキーボードは対応しています(Duplex-Matrixは非対応)、オレンジ色の部分でキー入力をしているキーボードは非対応になります(LEDのデータや、左右の通信で使用している分には問題ない)。
+<img src="/images/panda_pin.png" width="700">
 
 
 ## 使用パーツ
@@ -196,6 +208,10 @@ PandaMicro は MCP23017 を使用した ProMicro サイズのIOエキスパン�
 信号：　I2C　（～1.7MHz）
 サイズ：　width 17.78mm　×　height 33.02
 <br><br>
+
+
+## 動かない時には
+
 
 
 ## 写真
